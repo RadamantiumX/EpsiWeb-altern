@@ -1,0 +1,14 @@
+.phone-main{
+    width: 21rem;
+}
+
+.text-gradient {
+    background: -webkit-linear-gradient(#2937f0, #9f1ae2);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+  }
+  .bi-graph-up-arrow{
+    width: 30rem;
+  }

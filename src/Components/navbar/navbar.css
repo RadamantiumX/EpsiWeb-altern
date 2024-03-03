@@ -1,0 +1,54 @@
+.logonav{
+    width: 8rem;
+}
+.navegacion{
+    padding-right: 0;
+}
+#mainNav{
+    z-index: 1000;
+}
+.nav-item{
+    color: #ffff;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+.navbar-toggler{
+    color: #ffff;
+}
+.nav-link{
+    color: #ffff;
+}
+.nav-link:hover{
+    color: blueviolet;
+}
+
+.btn-primary {
+    color: blueviolet;
+    
+  }
+.bi-chat-dots{
+margin-right: 0.3rem;
+}
+
+/* buton */
+a.my-button{
+    background: linear-gradient(to right,#c879fd ,#6433E0);
+    background-color: #c879fd;
+    color: #fff;
+    width: 100%;
+    font-size: 18px;
+    font-weight: 800;
+    font-style: normal;
+    text-decoration: none;
+    padding: 6px 15px;
+    border: 0px solid #000;
+    border-radius: 10px;
+    display: inline-block;
+   }
+   a.my-button:hover{
+    background: linear-gradient(to right,#ce8cfd ,#7d5ee3);
+    background-color: #ce8cfd;
+   }
+   a.my-button:active{
+    transform: scale(0.95);
+   }

@@ -1,0 +1,29 @@
+.bg-gradient-section {
+    background: rgb(159,26,226);
+background: linear-gradient(189deg, rgba(159,26,226,1) 2%, rgba(102,16,242,1) 10%, rgba(0,0,0,1) 35%);
+}
+
+.reaptcha{
+    margin-top: 1rem;
+}
+
+.fa
+{
+    margin-right: 0.5rem;
+    margin-top: 0.6rem;
+    color: #fff;
+}
+
+/* form{
+    border: 3px solid #fff;
+    padding: 30px;
+    display: inline-block;
+    width: 100%;
+    min-width: 550px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+} */
+.fa .fa-facebook{
+    color:#fff
+}

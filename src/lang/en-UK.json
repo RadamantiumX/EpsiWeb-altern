@@ -1,0 +1,61 @@
+{
+    "menu.service":"Service",
+    "menu.about":"About Us",
+    "menu.price":"Web Desing",
+    "menu.contact":"Let's talk",
+
+    "aboutus.titulo1":"We are EpsiWeb: Moving forward.",
+    "aboutus.parrafo1":"A different version of your business, using the most advanced digital technologies to achieve it in a professional way.",
+    "aboutus.titulo2":"Looking for the best results.",
+    "aboutus.parrafo2":"We take into account the new trends in this digital world, we evaluate your website and give support. The guarantee is: good experiences and satisfaction.",
+
+    "contact.titulo":"More information?",
+    "contact.parrafo":"No problem.",
+    "contact.btn":"Contact Us",
+
+    
+    "footer.parrafo1":"Let's work together, don't forget to contact us to get started.",
+    "footer.parrafo2":"Our socials.",
+    "footer.contact":"Contact",
+    "footer.services":"Services",
+    "footer.aboutus":"About Us",
+    "footer.price":"Web Desing",
+    "footer.help":"Tell us more:",
+    "footer.msg":"Message",
+    "footer.btn":"Send",
+    "footer.tc":"Terms and Conditions",
+    "footer.pp":"Privacy Policy",
+
+    "header.titulo":"Improve your next website, we can help",
+    "header.parrafo":"The best user experience, on any device and optimized.",
+
+    "mainsection.titulo1":"Responsive web design",
+    "mainsection.parrafo1":"On all devices with the best visual quality and optimization.",
+    "mainsection.titulo2":"Social Login Integrated",
+    "mainsection.parrafo2":"Auth methods with the best tech in your website.",
+    "mainsection.titulo3":"Payment platforms",
+    "mainsection.parrafo3":"The safest way to make payments on your website, perfect for ",
+    "mainsection.titulo4":"SEO (Search Engine Optimization)",
+    "mainsection.parrafo4":"Building the site with the right keys to climb in the search engine ",
+
+    "midsection.parrafo":"“Our commitment: Transform your ideas into something wonderful, let's do it”.",
+
+
+    "precios.titulo":"First choose a plan",
+    "precios.parrafo":"We will contact you as soon as possible",
+    "precios.opcion1":"Landing Page",
+    "precios.precio1":"To define",
+    "precios.desc1":"Static design, present your brand to your potential customers. Certificate with SSL security.",
+    "precios.opcion2":"Web Basic",
+    "precios.precio2":"To define",
+    "precios.desc2":"Ideal for small online stores, we incorporate up to 20 images in 4 different sections. Certificate with SSL security.",
+    "precios.opcion3":"E-Commerce",
+    "precios.precio3":"To define",
+    "precios.desc3":"A complete online store, more sections, images and the incorporation of a payment method. More dynamic and professional. Certificate with SSL security.",
+    "precios.btn":"Start Now",
+    "precios.promo1":"Customer service",
+    "precios.promo2":"Personalized",
+    "precios.plus1":"Obtain a customization in your project ",
+    "precios.plus2":"We await your message!!"
+
+}

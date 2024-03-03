@@ -1,0 +1,67 @@
+{
+    "menu.service":"Servicios",
+    "menu.about":"Quienes Somos",
+    "menu.price":"Diseño Web",
+    "menu.contact":"Hablemos", 
+
+    "aboutus.titulo1":"Somos EpsiWeb: Miramos hacia adelante.",
+    "aboutus.parrafo1":"Queremos ayudarte a construir una versión distinta de tu emprendimiento, tenemos la experiencia formada en las diferentes tecnologías para ofrecerte el mejor servicio, de la forma más profesional",
+    "aboutus.titulo2":"Queremos lograr que tengas los mejores resultados.",
+    "aboutus.parrafo2":"Estamos informados de las ultimas tendencias en materia digital, evaluamos situaciones y asesoramos ante cualquier duda, nuestra garantía en la satisfacción y la buena experiencia.",
+
+    "contact.titulo":"Mas información?",
+    "contact.parrafo":"No hay problema.",
+    "contact.btn":"Contáctanos",
+
+    
+    "footer.parrafo1":"Empecemos a trabajar juntos en tu próximo sitio web, no dudes en contactarnos.",
+    "footer.parrafo2":"Visítanos en nuestras redes sociales.",
+    "footer.contact":"Contacto",
+    "footer.services":"Servicios",
+    "footer.aboutus":"Quienes somos",
+    "footer.price":"Diseño web",
+    "footer.help":"Como te ayudamos:",
+    "footer.msg":"Mensaje",
+    "footer.btn":"Enviar",
+    "footer.tc":"Términos y condiciones",
+    "footer.pp":"Política de privacidad",
+
+    "header.titulo":"Queremos ayudarte con tu próximo sitio web",
+    "header.parrafo":"Cada usuario merece tener la mejor experiencia, desde cualquier dispositivo y con la mejor optimización.",
+
+    "mainsection.titulo1":"Diseño web Responsive",
+    "mainsection.parrafo1":"Tu sitio web en cualquier dispositivo con la mejor optimización y calidad visual.",
+    "mainsection.titulo2":"Integración de Social Login",
+    "mainsection.parrafo2":"Añadimos metodos de autenticación a tu sitio web, mediante las principales redes sociales.",
+    "mainsection.titulo3":"Plataformas de pagos",
+    "mainsection.parrafo3":"Incorporamos distintos metodos de pagos, ideal para los ",
+    "mainsection.titulo4":"Posicionamiento SEO",
+    "mainsection.parrafo4":"Trabajamos con las principales reglas para poder alcanzar ese preciado primer lugar en el famoso motor de búsqueda ",
+
+    "midsection.parrafo":"“Nuestro compromiso es poder acompañarte y transformar tus ideas en algo maravilloso y dinámico”.",
+
+    "precios.titulo":"Elegí el plan que mejor se adapte a tus necesidades",
+    "precios.parrafo":"Una vez que hayas seleccionado una opción, nos pondremos en contacto.",
+    "precios.opcion1":"Landing Page",
+    "precios.precio1":"Cotizar",
+    "precios.desc1":"Diseño simple y estático, ideal para presentar tu marca y atraer más potenciales clientes a tu cartera de trabajo. La mejor optimización y seguridad con certificado SSL.",
+    "precios.opcion2":"Web Basic",
+    "precios.precio2":"Cotizar",
+    "precios.desc2":"Sitios web para pequeñas tiendas, capacidad para 20 imágenes distribuidas en hasta 4 secciones. La mejor optimización y seguridad con certificado SSL.",
+    "precios.opcion3":"E-Commerce",
+    "precios.precio3":"Cotizar",
+    "precios.desc3":"Tu tienda online más completa, variedad de secciones e imágenes, plataformas de pagos, base de datos, etc. Potencia tus ventas con el método más dinámico y profesional. La mejor optimización y seguridad con certificado SSL.",
+    "precios.btn":"Empezar",
+    "precios.promo1":"Servicio y",
+    "precios.promo2":"Atencion personalizado",
+    "precios.plus1":"Además desarrollamos tu web a medida ",
+    "precios.plus2":"pedí tu cotización!!"
+
+    
+       
+
+    
+    
+    
+    
+}
