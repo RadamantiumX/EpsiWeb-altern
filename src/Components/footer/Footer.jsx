@@ -182,6 +182,9 @@ class Footer extends React.Component {
                   defaultMessage="Diseño web"
                   />
                 </a>
+                <a style={{textDecoration:"none"}} class="nav-link me-lg-3 text-start text-uppercase fw-bold" href="https://rada-dev.vercel.app/" title='Price'>
+                  Portfolio
+                </a>
                 </div>
                 </div>
                
